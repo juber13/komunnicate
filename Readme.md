@@ -1,7 +1,5 @@
 
-![screenshot]('./images/Screenshot 2024-04-03 133453.png')
-
-
+![screenshot](./images/Screenshot%202024-04-03%20133453.png)
 
 
 In the head section, it includes meta tags for character set and viewport settings, as well as links to external stylesheets for font-awesome icons and a custom style.css file. The title of the document is set to "Document".
