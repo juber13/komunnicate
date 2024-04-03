@@ -1,5 +1,5 @@
 
-('./images/Screenshot 2024-04-03 133453.png')
+![screenshot]('./images/Screenshot 2024-04-03 133453.png')
 
 
 
@@ -30,5 +30,5 @@ reverseNumber(149); // Output: 941
 
 # Links for others
 
-[Link Text](https://ecomsss.netlify.app/)
-[Link Text](https://notes-42.netlify.app/)
+[E.COM](https://ecomsss.netlify.app/)
+[Note App](https://notes-42.netlify.app/)
